@@ -1,0 +1,12 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\bin\Debug\net6.0\classes.deps.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\bin\Debug\net6.0\classes.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\bin\Debug\net6.0\classes.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\classes.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\classes.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\classes.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\classes.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\refint\classes.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\classes.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\5. C# Advanced\homeworks_CSharpAdvanced\class03_Homework\Homework_class03\classes\obj\Debug\net6.0\ref\classes.dll
